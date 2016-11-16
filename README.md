@@ -1,4 +1,4 @@
-![Logo](https://wtvox.com/wp-content/uploads/windows10iot1.jpg)
+![Logo](http://zdnet2.cbsistatic.com/hub/i/r/2015/02/02/86d558b0-86c0-4226-8d72-7b6c96797de5/resize/770x578/90a463bfd2ba48218ff3820cc729ece8/win10rasberrypi.jpg)
 
 # Microsoft IoT Workshop
 Welcome!  This repository contains source files and resources for the Iowa State Fall 2016 Microsoft IoT Lab Jam.  Here you will learn how to setup and deploy connected applications to an Windows powered IoT device.
@@ -16,7 +16,9 @@ Follow [this link](https://www.visualstudio.com/vs/) to download and install Vis
 Follow [this link](https://developer.microsoft.com/en-us/windows/iot/downloads) to download and install the IoT Core Dashboard.  You will need this to configure and manage your devices.
 
 ### Set your development machine to Developer Mode
-[Follow this link for instructions](http://www.thewindowsclub.com/how-to-enable-developer-mode-in-windows-10)
+Open the **Settings app** > **Update & Security**. Click on **For developers** in the left side.  Now select **Developer mode**.
+
+You will be prompted to restart your machine.
 
 ### Are you bringing your own device?
 If you are bringing your own [IoT Core Supported Device](https://developer.microsoft.com/en-us/windows/iot/explore/deviceoptions), follow [this setup guide](https://developer.microsoft.com/en-us/windows/iot/GetStarted).
