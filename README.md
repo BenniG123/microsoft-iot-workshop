@@ -1,4 +1,3 @@
-
 ![Logo](https://wtvox.com/wp-content/uploads/windows10iot1.jpg)
 
 # Microsoft IoT Workshop
@@ -6,6 +5,7 @@ Welcome!  This repository contains source files and resources for the Iowa State
 
 ## Requirements
 Windows 10 desktop computer
+
 **Optional but encouraged:** Your own [IoT Core Supported Device](https://developer.microsoft.com/en-us/windows/iot/explore/deviceoptions)
 
 ## Setup
