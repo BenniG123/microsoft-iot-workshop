@@ -15,6 +15,9 @@ Follow [this link](https://www.visualstudio.com/vs/) to download and install Vis
 ### Install Windows 10 IoT Core Dashboard
 Follow [this link](https://developer.microsoft.com/en-us/windows/iot/downloads) to download and install the IoT Core Dashboard.  You will need this to configure and manage your devices.
 
+### Install Windows IoT Remote Client
+Install at the Windows Store [here](https://www.microsoft.com/store/apps/9nblggh5mnxz)
+
 ### Set your development machine to Developer Mode
 Open the **Settings app** > **Update & Security**. Click on **For developers** in the left side.  Now select **Developer mode**.
 
