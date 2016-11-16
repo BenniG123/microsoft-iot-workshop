@@ -1,4 +1,4 @@
-![Logo](http://zdnet2.cbsistatic.com/hub/i/r/2015/02/02/86d558b0-86c0-4226-8d72-7b6c96797de5/resize/770x578/90a463bfd2ba48218ff3820cc729ece8/win10rasberrypi.jpg)
+[Logo] : http://cdn03.androidauthority.net/wp-content/uploads/2015/02/windows-10-on-Raspberry-Pi-2-logo-710x399.jpg
 
 # Microsoft IoT Workshop
 Welcome!  This repository contains source files and resources for the Iowa State Fall 2016 Microsoft IoT Lab Jam.  Here you will learn how to setup and deploy connected applications to an Windows powered IoT device.
