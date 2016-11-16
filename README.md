@@ -1,4 +1,4 @@
-![logo](http://cdn03.androidauthority.net/wp-content/uploads/2015/02/windows-10-on-Raspberry-Pi-2-logo-710x399.jpg)
+![logo](https://blog.adafruit.com/wp-content/uploads/2015/08/windows_iot1.jpg)
 
 # Microsoft IoT Workshop
 Welcome!  This repository contains source files and resources for the Iowa State Fall 2016 Microsoft IoT Lab Jam.  Here you will learn how to setup and deploy connected applications to an Windows powered IoT device.
